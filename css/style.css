@@ -1,0 +1,47 @@
+body {
+  background-color: #000000;
+  margin: 0px;
+  padding: 0px;
+}
+
+
+h1 {
+  color: #ffffff;
+  font-size: 50px;
+  text-align: center;
+  font-family: "Bungee Outline", cursive;
+  letter-spacing: 12px;
+}
+
+.txt1 {
+  text-shadow: 0 0 5px #39ff14, 0 0 20px #39ff14, 0 0 40px #39ff14,
+    0 0 60px #39ff14;
+}
+
+.txt2 {
+  text-shadow: 0 0 5px #ff1420, 0 0 20px #ff1420, 0 0 40px #ff1420,
+    0 0 60px #ff1420;
+}
+.txt3 {
+  text-shadow: 0 0 5px #2707e0, 0 0 20px #2707e0, 0 0 40px #2707e0,
+    0 0 60px #2707e0;
+}
+
+.emj {
+  text-shadow: 0 0 5px #fae103, 0 0 20px #fae103, 0 0 40px #fae103,
+    0 0 60px #fae103;
+}
+
+.hpage {
+  color: white;
+  text-decoration: none;
+  text-shadow: 0 0 5px #eaeff1, 0 0 20px #eaeff1, 0 0 40px #eaeff1,
+    0 0 60px #eaeff1;
+}
+
+.mouseproject {
+  color: white;
+  text-decoration: none;
+  text-shadow: 0 0 5px #48ff00, 0 0 20px #48ff00, 0 0 40px #48ff00,
+    0 0 60px #48ff00;
+}
